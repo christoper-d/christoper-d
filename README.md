@@ -1,4 +1,6 @@
 <h1>-Welcome to my Github ✨-</h1>
+<center> <h1>heading 1</h1> </center>
+
 
 ```{css, echo=FALSE}
    h1, h2, h3 { text-align: center; }
