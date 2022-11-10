@@ -1,4 +1,4 @@
-## Hi and WElCOME to my Github##
+## Hi and WElCOME to my Github ##
 
 <!---
 - 👋 Hi, I’m @christoper__d
