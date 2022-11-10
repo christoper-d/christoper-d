@@ -1,5 +1,4 @@
--Welcome to my Github ✨-
-<h1 >heading 1</h1>
+<h1> Welcome to my Github ✨ </h1>
 <br>
 <hr>
 <center>center</center>
@@ -18,6 +17,7 @@
  | i'm christopher i'm a young programmer |
 
 <!---
+Welcome to my Github ✨
 - 👋 Hi, I’m @christoper__d
 - 👀 I’m interested in learn programming
 - 🌱 I’m currently learning python 
