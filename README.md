@@ -1,6 +1,8 @@
 -Welcome to my Github ✨-
-<center> <h1>heading 1</h1> </center>
-<center> center </center>
+<h1 >heading 1</h1>
+<br>
+<hr>
+<center>center</center>
 
 ```{css, echo=FALSE}
    h1, h2, h3 { text-align: center; }
@@ -11,10 +13,9 @@
 
 ## My projects
 
-| Header | Another header | Yet another header |
-|--- |--- |--- |
-| row 1 | column 2 | column 3 |
-| row 2 | row 2 column 2 | row 2 column 3 |
+|--- |--- |
+| <img src="https://avatars.githubusercontent.com/u/91582821?s=400&u=60f4f38ace429f38dd38c2bb3657078fc974f8b8&v=4" width="100" height="100" border-radius="50%"/>
+ | i'm christopher i'm a young programmer |
 
 <!---
 - 👋 Hi, I’m @christoper__d
