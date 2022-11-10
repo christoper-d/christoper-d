@@ -1,5 +1,4 @@
-## Hi ##
-[img1]: https://avatars.githubusercontent.com/u/91582821?v=4
+## Hi and WElCOME to my Github##
 
 <!---
 - 👋 Hi, I’m @christoper__d
