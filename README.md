@@ -1,4 +1,4 @@
-<h1> Welcome to my Github ✨ </h1>
+<h1 text-align: center; > Welcome to my Github ✨ </h1>
 <br>
 <hr>
 <center>center</center>
