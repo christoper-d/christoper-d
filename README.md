@@ -28,7 +28,7 @@
 
 <div class="info" display="flex">
   <div class="img-icon" >
-    <img class="icon-perf" src="https://avatars.githubusercontent.com/u/91582821?s=400&u=60f4f38ace429f38dd38c2bb3657078fc974f8b8&v=4" width="100" />
+    <img class="icon-perf" src="https://avatars.githubusercontent.com/u/91582821?s=400&u=60f4f38ace429f38dd38c2bb3657078fc974f8b8&v=4" width="100" border-radius="10px" />
   </div>
   
   <div class="info-text" align="center">
