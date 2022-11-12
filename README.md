@@ -10,10 +10,8 @@
 
 <div align="center">
   
-      .
-      > Hi, I’m @christoper__d
-      I'm a fan of linux
-      I'm a web developer
+    
+      > Hey there, I’m christoper
 </div>
 
  	
