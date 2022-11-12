@@ -31,7 +31,7 @@
     <img class="icon-perf" src="https://avatars.githubusercontent.com/u/91582821?s=400&u=60f4f38ace429f38dd38c2bb3657078fc974f8b8&v=4" width="100" />
   </div>
   
-  <div class="info-text">
+  <div class="info-text" align="center">
 
       - Hi, I’m @christoper__d
       - I'm a fan of linux
