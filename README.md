@@ -1,4 +1,4 @@
-<center><h1>Welcome to my Github ✨</h1></center>
+<h3 align="center"> ━━━━━━  ❖  ━━━━━━ </h3>
 <hr>
 
 <div>
