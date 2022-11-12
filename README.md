@@ -8,9 +8,13 @@
   </div>
   
   
-  - Hi, I’m @christoper__d
-  - I'm a fan of linux
-  - I'm a web developer
+  <div>
+
+        > Hi, I’m @christoper__d
+      > I'm a fan of linux
+      > I'm a web developer
+
+  </div>
     
 </div>
 
