@@ -21,20 +21,20 @@
 
 
 
-<h3 id="projects">⚙ Projects </h3>
+<h3 id="projects"><samp>⚙ Projects</samp></h3>
 <ul>
   <li><a href="#">1</a></li>
   <li><a href="#">2</a></li>
 </ul>
 
-<h3 id="Contributions">🎡 Contributions</h3>
+<h3 id="Contributions"><samp>🎡 Contributions</samp></h3>
 <ul>
   <li><a href="#">1</a></li>
   <li><a href="#">2</a></li>
 </ul>
-<h3 id="Desktop">💻 Desktop</h3>
+<h3 id="Desktop"><samp>💻 Desktop</samp></h3>
 
-* [📂 Dotfiles](#)
+* [📂 Dotfiles]()
   
       .
       ├── home          # 
