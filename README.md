@@ -25,14 +25,13 @@
 
 <h3 id="projects"><samp>⚙ Projects</samp></h3>
 <ul>
-  <li><a href="#">1</a></li>
-  <li><a href="#">2</a></li>
+  <li><a href="https://github.com/christoper-d/Entregable-2">Entregable pyhton SE</a></li>
 </ul>
 
 <h3 id="Contributions"><samp>🎡 Contributions</samp></h3>
 <ul>
-  <li><a href="#">1</a></li>
-  <li><a href="#">2</a></li>
+  <li><a href="#"> -0- </a></li>
+  <li><a href="#"> -0- </a></li>
 </ul>
 <h3 id="Desktop"><samp>💻 Desktop</samp></h3>
 
