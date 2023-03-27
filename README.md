@@ -21,7 +21,7 @@
 </div>
 
 <div>
-    <h2 dir="auto"><samp>📚Index</samp></h2>
+    <h2><samp>📚Index</samp></h2>
 </div>
 
 * [repositories](https://github.com/christoper-d?tab=repositories)
