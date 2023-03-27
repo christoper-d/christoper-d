@@ -1,23 +1,29 @@
 <h2 align="center"> ━━━━━━  ❖  ━━━━━━ </h2>
 <h3 align="center"> Welcome to my Github ✨ </h3>
-<h5 align="center"> ━━━━━━━━━━━━ </h2>
+<h5 align="center"> ━━━━━━━━━━━━ </h5>
 
 <div>
   <div align="center">
-    <img class="icon-perf" src="https://avatars.githubusercontent.com/u/91582821?s=400&u=60f4f38ace429f38dd38c2bb3657078fc974f8b8&v=4" width="100" border-radius="10px" />
+    
   </div>
 </div>
 
-<div align="center">
+<div style="display:block;text-align:left"><img align="left" src="https://avatars.githubusercontent.com/u/91582821?s=400&u=60f4f38ace429f38dd38c2bb3657078fc974f8b8&v=4" border="0" style="width:156px;">
   
-    
-      > Hey there, I’m christoper
+  ```css
+  christoper-d@GitHub
+  -----------------
+  Name: christoper-d
+  OS: Fedora
+  Languages: ["Python", "C++"] 
+
+  ```
 </div>
 
  	
 <h2 dir="auto"><samp>📚Index</samp></h2>
 
-* [Projects](#projects)
+* [repositories](https://github.com/christoper-d?tab=repositories)
 * [Contributions](#Contributions)
 * [Desktop](#Desktop)
 
@@ -31,21 +37,14 @@
 <h3 id="Contributions"><samp>🎡 Contributions</samp></h3>
 <ul>
   <li><a href="#"> -0- </a></li>
-  <li><a href="#"> -0- </a></li>
 </ul>
 <h3 id="Desktop"><samp>💻 Desktop</samp></h3>
+<ul>
+    <img class="icon-fedora" src="https://getfedora.org/static/images/fedora-logofull-white.png" width="90">
+</ul>
 
-* [📂 Dotfiles]()
-  
-      .
-      ├── home          # 
-      ├──               # 
-      │   ├──           # 
-      │   ├──           # 
-      ├──               #  
-      ├──               # 
-      │   ├──           # 
-      │   ├──           # 
-      │   └──           # 
-      └──               # 
-
+<p align="center">
+  <samp>
+    . <a href="https://twitter.com/christoper__d">twitter</a> .
+  </samp>
+</p>
