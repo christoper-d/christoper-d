@@ -20,9 +20,9 @@
   ```
 </div>
 
-<div>
-    <h2><samp>📚Index</samp></h2>
-</div>
+<hr>
+<h2 dir="auto"><samp>📚Index</samp></h2>
+
 
 * [repositories](https://github.com/christoper-d?tab=repositories)
 * [Contributions](#Contributions)
@@ -47,3 +47,4 @@
     . <a href="https://twitter.com/christoper__d">twitter</a> .
   </samp>
 </p>
+<hr>
