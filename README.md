@@ -20,13 +20,13 @@
   ```
 </div>
 
- 	
-<h2><samp>📚Index</samp></h2>
+<div>
+    <h2 dir="auto"><samp>📚Index</samp></h2>
+</div>
 
 * [repositories](https://github.com/christoper-d?tab=repositories)
 * [Contributions](#Contributions)
 * [Desktop](#Desktop)
-
 
 
 <h3 id="projects"><samp>⚙ Projects</samp></h3>
