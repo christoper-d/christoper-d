@@ -11,11 +11,16 @@
 <div><img align="left" src="https://avatars.githubusercontent.com/u/91582821?s=400&u=60f4f38ace429f38dd38c2bb3657078fc974f8b8&v=4" border="0" style="width:156px;">
   
   ```css
-  christoper-d@GitHub
-  -----------------
-  Name: christoper-d
-  OS: Fedora
-  Languages: ["Python", "C++"] 
+  |                         -.  ':'  .-
+|           _-----_    ' : '    _-----_
+|              "･---~'.         .'~---･"
+|                ￣'⁰-.    ヘ   .-⁰'￣
+|
+|        christoper-d@GitHub
+|         -----------------
+|         Name: christoper-d
+|         OS: Fedora
+|         Languages: ["Python", "C++"] 
 
   ```
 </div>
