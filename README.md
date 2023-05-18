@@ -31,7 +31,7 @@
 
 * [repositories](https://github.com/christoper-d?tab=repositories)
 * [Contributions](#Contributions)
-* [Desktop](#Desktop)
+* [OS](#Os)
 
 <h3 id="projects"><samp>⚙ Projects</samp></h3>
 <ul>
@@ -42,7 +42,7 @@
 <ul>
   <li><a href="#"> -0- </a></li>
 </ul>
-<h3 id="Desktop"><samp>💻 Desktop</samp></h3>
+<h3 id="Os"><samp>💻 OS </samp></h3>
 <ul>
     <img class="icon-fedora" src="https://docs.fedoraproject.org/en-US/_/img/fedora-blue.png" width="90">
 
