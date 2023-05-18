@@ -44,7 +44,8 @@
 </ul>
 <h3 id="Desktop"><samp>💻 Desktop</samp></h3>
 <ul>
-    <img class="icon-fedora" src="https://getfedora.org/static/images/fedora-logofull-white.png" width="90">
+    <img class="icon-fedora" src="https://docs.fedoraproject.org/en-US/_/img/fedora-blue.png" width="90">
+
 </ul>
 
 <p align="center">
