@@ -20,7 +20,7 @@
         -----------------
         Name: christoper-d
         OS: Fedora
-        Languages: ["Python", "C++"] 
+        Languages: ["Python", JavaScript","Typescript"] 
 
   ```
 </div>
