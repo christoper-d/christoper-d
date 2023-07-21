@@ -26,27 +26,18 @@
 </div>
 
 <hr>
-<h2 dir="auto"><samp>📚Index</samp></h2>
+<h2 dir="auto"><samp>- Index |</samp></h2>
 
 
 * [repositories](https://github.com/christoper-d?tab=repositories)
-* [Contributions](#Contributions)
-* [OS](#Os)
 
 <h3 id="projects"><samp>⚙ Projects</samp></h3>
 <ul>
-  <li><a href="https://github.com/christoper-d/Entregable-2">Entregable pyhton SE</a></li>
+  <li><a href="https://github.com/christoper-d/PRO-SENATI">Proyectos de SENATI</a></li>
+  <li><a href="https://github.com/christoper-d/LOokiero">LOokiero! - Página web</a></li>
 </ul>
 
-<h3 id="Contributions"><samp>🎡 Contributions</samp></h3>
-<ul>
-  <li><a href="#"> -0- </a></li>
-</ul>
-<h3 id="Os"><samp>💻 OS </samp></h3>
-<ul>
-    <img class="icon-fedora" src="https://docs.fedoraproject.org/en-US/_/img/fedora-blue.png" width="90">
 
-</ul>
 
 <p align="center">
   <samp>
