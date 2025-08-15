@@ -31,11 +31,6 @@
   <li><a href="https://github.com/christoper-d/PRO-SENATI" target="_blank" rel="noopener noreferrer">Proyectos de SENATI</a></li>
   <li><a href="https://github.com/christoper-d/LOokiero" target="_blank" rel="noopener noreferrer">LOokiero! - Página web</a></li>
   <li><a href="https://github.com/christoper-d/repplink" target="_blank" rel="noopener noreferrer">repplink - Herramienta</a></li>
-
-  <a href="https://github.com/christoper-d/PRO-SENATI" target="_blank">Proyectos de SENATI</a>  
-<a href="https://github.com/christoper-d/LOokiero" target="_blank">LOokiero! - Página web</a>  
-<a href="https://github.com/christoper-d/repplink" target="_blank">repplink - Herramienta</a>  
-
 </ul>
 
 <p align="center">
