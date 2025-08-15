@@ -11,16 +11,18 @@
 <div><img align="left" src="https://avatars.githubusercontent.com/u/91582821?s=400&u=60f4f38ace429f38dd38c2bb3657078fc974f8b8&v=4" border="0" style="width:230px;">
   
   ```css
-                    -.  ':'  .-
-            _-----_    ' : '    _-----_
-             "･---~'.         .'~---･"
-                ￣'⁰-.   ヘ   .-⁰'￣
+                   -.  ':'  .-
+           _-----_    ' : '    _-----_
+            "･---~'.         .'~---･"
+               ￣'⁰-.   ヘ   .-⁰'￣
 
         christoper-d@GitHub    
         -----------------
         Name: christoper-d
         OS: Fedora
-        Languages: ["Flutter", "JavaScript","Java","c++"] 
+        Languages: ["Flutter", "JavaScript", "Java", "C++", "Python", "Dart", "HTML", "CSS", "PHP"]
+        Frameworks_and_Tools: ["Node.js", "NestJS", "Provider", "Clean Architecture", "Git/GitHub"]
+        Databases: ["MySQL", "Oracle Database", "SQL Server"]
 
   ```
 </div>
