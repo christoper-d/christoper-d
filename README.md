@@ -26,11 +26,6 @@
 </div>
 
 <hr>
-<h2 dir="auto"><samp>- Index |</samp></h2>
-
-
-* [repositories](https://github.com/christoper-d?tab=repositories)
-
 <h3 id="projects"><samp>⚙ Projects</samp></h3>
 <ul>
   <li><a href="https://github.com/christoper-d/PRO-SENATI">Proyectos de SENATI</a></li>
