@@ -28,15 +28,14 @@
 <hr>
 <h3 id="projects"><samp>⚙ Projects</samp></h3>
 <ul>
-  <li><a href="https://github.com/christoper-d/PRO-SENATI">Proyectos de SENATI</a></li>
-  <li><a href="https://github.com/christoper-d/LOokiero">LOokiero! - Página web</a></li>
-  <li><a href="https://github.com/christoper-d/repplink">repplink - Herramienta</a></li>
+  <li><a href="https://github.com/christoper-d/PRO-SENATI" target="_blank" rel="noopener noreferrer">Proyectos de SENATI</a></li>
+  <li><a href="https://github.com/christoper-d/LOokiero" target="_blank" rel="noopener noreferrer">LOokiero! - Página web</a></li>
+  <li><a href="https://github.com/christoper-d/repplink" target="_blank" rel="noopener noreferrer">repplink - Herramienta</a></li>
 </ul>
-
 
 <p align="center">
   <samp>
-    . <a href="https://twitter.com/christoper__d">twitter</a> .
+    . <a href="https://twitter.com/christoper__d" target="_blank" rel="noopener noreferrer">twitter</a> .
   </samp>
 </p>
 <hr>
